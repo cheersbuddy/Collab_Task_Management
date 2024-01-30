@@ -1,4 +1,4 @@
-# Build a Complete Responsive Task Management System | HTML & CSS & Javascript | 4 Hours Course
+# Build a Complete Responsive Collaborative Task Management System | HTML & CSS & Javascript | 
 
 We will build a two-pages task management system. We will work intensively with HTML & CSS. And we are going to use Javascript as well to add some user interactions. What we will accomplish together:
 
@@ -18,10 +18,16 @@ We will build a two-pages task management system. We will work intensively with 
 
 ⚙️ Show feedback notifications
 
-## YouTube tutorial
+![image](https://github.com/cheersbuddy/Collab_Task_Management/assets/126586644/fa34598d-faaa-4270-8b68-2aa92932ca73)
+![image](https://github.com/cheersbuddy/Collab_Task_Management/assets/126586644/fe781f6d-e2ea-4020-bb06-571689762124)
+![image](https://github.com/cheersbuddy/Collab_Task_Management/assets/126586644/8718c018-e549-4cc3-a98b-8a7310425b20)
+![image](https://github.com/cheersbuddy/Collab_Task_Management/assets/126586644/e8af6209-8070-49de-a54e-8d3f7e6b930e)
+![image](https://github.com/cheersbuddy/Collab_Task_Management/assets/126586644/c596579f-198a-4297-adc2-972c0bdfa94f)
 
-[Build a Complete Responsive Task Management System | HTML & CSS & Javascript | 4 Hours Course](https://youtu.be/AQQi6nw3qjc)
 
-## Run
 
-If you are using Visual Studio Code, use live server extension to run the project in the brower. Or similar extension in your editor of choise. Or even simpler, open the html page directly in your favorite browser😉
+
+
+
+
+
